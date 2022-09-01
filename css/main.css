@@ -98,16 +98,16 @@ a, a:visited {
 }
 
 
-.modal {
+.side {
     padding-top: 100px; /* Location of the box */
     overflow: auto; /* Enable scroll if needed */}
     
-.modal-content {
+.side-content {
     background-color: #212121;
     margin: auto;
     border: 0px solid #888;}
 
-.modal-header {
+.side-header {
     color: #aaaaaa;}
 .form-container {
     max-width: 100%;
