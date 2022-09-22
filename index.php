@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Login Page</title>
+	<link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
